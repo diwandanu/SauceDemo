@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite 02 - Login 3 User - Positive,Chrome 109.0.0.0,,,2023-01-20 21:42:15,2023-01-20 21:42:35,20.156s,PASSED
+,,,,,,,
+Test Cases/TC06 - Login - 3 User - Positive,Chrome 109.0.0.0,,,2023-01-20 21:42:15,2023-01-20 21:42:21,5.718s,PASSED
+"openBrowser("""")",Chrome 109.0.0.0,,,2023-01-20 21:42:15,2023-01-20 21:42:18,2.168s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Chrome 109.0.0.0,,,2023-01-20 21:42:18,2023-01-20 21:42:18,0.597s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac""), username)",Chrome 109.0.0.0,,,2023-01-20 21:42:18,2023-01-20 21:42:19,1.076s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9""), ""qcu24s4901FyWDTwXGr6XA=="")",Chrome 109.0.0.0,,,2023-01-20 21:42:19,2023-01-20 21:42:20,0.545s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71""))",Chrome 109.0.0.0,,,2023-01-20 21:42:20,2023-01-20 21:42:20,0.468s,PASSED
+"verifyTextPresent(""PRODUCTS"", false)",Chrome 109.0.0.0,,,2023-01-20 21:42:20,2023-01-20 21:42:21,0.419s,PASSED
+,,,,,,,
+Test Cases/TC06 - Login - 3 User - Positive,Chrome 109.0.0.0,,,2023-01-20 21:42:21,2023-01-20 21:42:25,4.521s,PASSED
+"openBrowser("""")",Chrome 109.0.0.0,,,2023-01-20 21:42:21,2023-01-20 21:42:23,1.850s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Chrome 109.0.0.0,,,2023-01-20 21:42:23,2023-01-20 21:42:23,0.618s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac""), username)",Chrome 109.0.0.0,,,2023-01-20 21:42:23,2023-01-20 21:42:24,0.789s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9""), ""qcu24s4901FyWDTwXGr6XA=="")",Chrome 109.0.0.0,,,2023-01-20 21:42:24,2023-01-20 21:42:24,0.402s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71""))",Chrome 109.0.0.0,,,2023-01-20 21:42:24,2023-01-20 21:42:25,0.413s,PASSED
+"verifyTextPresent(""PRODUCTS"", false)",Chrome 109.0.0.0,,,2023-01-20 21:42:25,2023-01-20 21:42:25,0.440s,PASSED
+,,,,,,,
+Test Cases/TC06 - Login - 3 User - Positive,Chrome 109.0.0.0,,,2023-01-20 21:42:25,2023-01-20 21:42:35,9.509s,PASSED
+"openBrowser("""")",Chrome 109.0.0.0,,,2023-01-20 21:42:25,2023-01-20 21:42:27,1.781s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Chrome 109.0.0.0,,,2023-01-20 21:42:27,2023-01-20 21:42:28,0.530s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac""), username)",Chrome 109.0.0.0,,,2023-01-20 21:42:28,2023-01-20 21:42:28,0.807s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9""), ""qcu24s4901FyWDTwXGr6XA=="")",Chrome 109.0.0.0,,,2023-01-20 21:42:28,2023-01-20 21:42:29,0.416s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71""))",Chrome 109.0.0.0,,,2023-01-20 21:42:29,2023-01-20 21:42:34,5.545s,PASSED
+"verifyTextPresent(""PRODUCTS"", false)",Chrome 109.0.0.0,,,2023-01-20 21:42:34,2023-01-20 21:42:35,0.422s,PASSED
