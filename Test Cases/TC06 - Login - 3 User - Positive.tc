@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06 - Login - 3 User - Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9162db24-937d-4ab1-b5bd-4889bb269736</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7718872c-e85b-4e09-bec3-5f683fa462e6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7718872c-e85b-4e09-bec3-5f683fa462e6</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
